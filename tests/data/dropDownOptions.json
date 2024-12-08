@@ -1,0 +1,7 @@
+[
+    { "text": "10" , "expectedCount": 10},
+    { "text": "25" , "expectedCount": 25},
+    { "text": "50" , "expectedCount": 50},
+    { "text": "100" , "expectedCount": 100},
+    { "text": "- All -" , "expectedCount": 570}
+]
